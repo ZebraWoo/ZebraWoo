@@ -27,10 +27,10 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
-          user: imashen
+          user: ZebraWoo
           template: classic
           base: header, activity, community, repositories, metadata
-          config_timezone: Asia/Hong_Kong
+          config_timezone: Asia/Shanghai
           plugin_achievements: yes
           plugin_achievements_display: compact
           plugin_achievements_secrets: yes

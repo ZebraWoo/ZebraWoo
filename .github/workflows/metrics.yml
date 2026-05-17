@@ -1,0 +1,26 @@
+name: Metrics
+on:
+  # 每天午夜自动更新数据
+  schedule: [{cron: "0 0 * * *"}]
+  # 支持手动触发更新
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          # 注入你的 GitHub Token 
+          token: ${{ secrets.METRICS_TOKEN }}
+          
+          # 核心配置
+          user: ZebraWoo # 换成你的 GitHub 用户名
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Shanghai # 设置你的时区
+          
+          # 开启你想展示的插件（可以根据需要根据 lowlighter 官方文档加减）
+          plugin_languages: yes
+          plugin_languages_ignored: html, css # 忽略某些语言
+          plugin_projects: yes

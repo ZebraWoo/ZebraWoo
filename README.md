@@ -1,21 +1,28 @@
 <table>
   <tr>
-    <td width="55%" valign="top" markdown="1">
+    <td width="55%" valign="top">
 
-    ## Matrix Woo | 简介 🐱
+    <h2>Matrix Woo | 简介 🐱</h2>
 
-    🌐 [Blog](https://ZebraWoo.github.io) · 📧 [Email](mailto:woomatrix9@gmail.com)
+    🌐 <a href="https://ZebraWoo.github.io">Blog</a> · 📧 <a href="mailto:woomatrix9@gmail.com">Email</a>
 
-    ### 关于我
-    * 🔬 喜欢折腾代码，热衷于 **AI 4 Healthcare** * 🎮 业余游戏玩家，偶尔写点前端看板来自动化日常任务
-    * 🛠️ 常用工具链：Python, Git, Obsidian
+    <h3>关于我</h3>
+    <ul>
+      <li>🔬 喜欢折腾代码，热衷于 <strong>AI 4 Healthcare</strong></li>
+      <li>🎮 业余游戏玩家，偶尔写点前端看板来自动化日常任务</li>
+      <li>🛠️ 常用工具链：Python, Git, Obsidian</li>
+    </ul>
 
-    ### 技术栈 (Skills)
-    * ⚡ **AI/Frameworks:** PyTorch, Spiking Neural Networks
-    * ⚡ **Backend:** Python, C++
+    <h3>技术栈 (Skills)</h3>
+    <ul>
+      <li>⚡ <strong>AI/Frameworks:</strong> PyTorch, Spiking Neural Networks</li>
+      <li>⚡ <strong>Backend:</strong> Python, C++</li>
+    </ul>
 
-    ### 联系我
-    * 📪 email: woomatrix9@gmail.com
+    <h3>联系我</h3>
+    <ul>
+      <li>📪 email: woomatrix9@gmail.com</li>
+    </ul>
 
     </td>
     

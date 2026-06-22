@@ -7,7 +7,7 @@
 
   <p align="center">
     <samp>
-      <a href="https://ZebraWoo.github.io">Blog</a> &middot;
+      <a href="https://ZebraWoo.github.io">Homepage</a> &middot;
       <a href="mailto:woomatrix9@gmail.com">Email</a>
     </samp>
   </p>

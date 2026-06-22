@@ -3,7 +3,7 @@
 </div>
 
 <div align="left">
-  <h3 align="center">Matrix Woo | ZebraWoo</h3>
+  <h3 align="center">ZebraWoo(Matrix Woo)</h3>
 
   <p align="center">
     <samp>

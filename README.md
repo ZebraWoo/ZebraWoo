@@ -1,33 +1,35 @@
-<table>
-  <tr>
-    <td width="55%" valign="top">
+<div align="right">
+  <img align="right" src="./github-metrics.svg" width="420px" alt="GitHub Metrics">
+</div>
 
-    <h2>Matrix Woo | 简介 🐱</h2>
+<div align="left">
+  <h3 align="center">Matrix Woo | ZebraWoo</h3>
 
-    🌐 <a href="https://ZebraWoo.github.io">Blog</a> · 📧 <a href="mailto:woomatrix9@gmail.com">Email</a>
+  <p align="center">
+    <samp>
+      <a href="https://ZebraWoo.github.io">Blog</a> &middot;
+      <a href="mailto:woomatrix9@gmail.com">Email</a>
+    </samp>
+  </p>
 
-    <h3>关于我</h3>
-    <ul>
-      <li>🔬 喜欢折腾代码，热衷于 <strong>AI 4 Healthcare</strong></li>
-      <li>🎮 业余游戏玩家，偶尔写点前端看板来自动化日常任务</li>
-      <li>🛠️ 常用工具链：Python, Git, Obsidian</li>
-    </ul>
+  <p align="left">
+    🔬 关于我
+  </p>
 
-    <h3>技术栈 (Skills)</h3>
-    <ul>
-      <li>⚡ <strong>AI/Frameworks:</strong> PyTorch, Spiking Neural Networks</li>
-      <li>⚡ <strong>Backend:</strong> Python, C++</li>
-    </ul>
+  - 喜欢折腾代码，热衷于 **AI 4 Healthcare**
+  - 业余游戏玩家，偶尔写点前端看板来自动化日常任务
+  - 常用工具链：Python、Git、Obsidian
 
-    <h3>联系我</h3>
-    <ul>
-      <li>📪 email: woomatrix9@gmail.com</li>
-    </ul>
+  <p align="left">
+    🛠 技术栈 (Skills)
+  </p>
 
-    </td>
-    
-    <td width="45%" valign="top">
-      <img src="https://raw.githubusercontent.com/ZebraWoo/ZebraWoo/main/github-metrics.svg" alt="Metrics" width="100%">
-    </td>
-  </tr>
-</table>
+  - ⚡ **AI/Frameworks:** PyTorch, Spiking Neural Networks
+  - ⚡ **Backend:** Python, C++
+
+  <p align="left">
+    📧 联系我
+  </p>
+
+  - [woomatrix9@gmail.com](mailto:woomatrix9@gmail.com)
+</div>
